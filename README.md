@@ -17,6 +17,7 @@ STEPS REQUIRED FOR THE IMPLEMENTATION
 - We require turtle, random, and time module to import
 
 2. Creating Game Screen
+
 - title() will set the desired title of the screen
 -setup() used to set the height and width of the screen
 -tracer(0) will turn off the screen update
